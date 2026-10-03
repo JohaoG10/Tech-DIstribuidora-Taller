@@ -1,0 +1,4 @@
+pedido_id,cliente,producto,cantidad,precio_unitario
+1001,Comercial Quito,Teclado,3,18.50
+1002,Distribuidora Sur,Monitor,2,145.00
+1003,Oficina Norte,Mouse,5,9.75

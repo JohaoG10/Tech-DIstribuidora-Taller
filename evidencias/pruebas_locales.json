@@ -1,0 +1,58 @@
+{
+  "entorno": "Prueba local con JAR Apache Camel real; no ejecución en Drive",
+  "fecha": "2026-10-02 21:14:53 -0500",
+  "resultados": [
+    {
+      "prueba": "Camel arranca y permanece activo",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "Detecta un CSV colocado después del arranque",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "Conserva el CSV original en input",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "SHA-256 de entrada y salida coincide",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "Registra copia con archivo y estado",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "Excluye TXT y conserva el archivo de control",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "No repite el evento en sondeos sucesivos",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "Historial persiste tras reiniciar Camel",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "CSV inválido genera ERROR_VALIDACION",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "CSV inválido no se copia y conserva original",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "Acepta CSV válido y extensión en mayúsculas",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "Una versión corregida del archivo se procesa",
+      "resultado": "APROBADA"
+    },
+    {
+      "prueba": "Copia corregida mantiene contenido idéntico",
+      "resultado": "APROBADA"
+    }
+  ]
+}

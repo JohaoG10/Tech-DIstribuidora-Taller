@@ -1,0 +1,1 @@
+Este archivo no es CSV y debe permanecer solamente en input.

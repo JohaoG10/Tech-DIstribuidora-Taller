@@ -1,0 +1,13 @@
+target/
+.tools/
+.m2/
+.idea/
+.vscode/
+__pycache__/
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+logs/*
+!logs/.gitkeep
+*.camelLock

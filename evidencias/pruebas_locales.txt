@@ -1,0 +1,16 @@
+Prueba local con JAR Apache Camel real; no ejecución en Drive
+2026-10-02 21:14:53 -0500
+
+APROBADA: Camel arranca y permanece activo
+APROBADA: Detecta un CSV colocado después del arranque
+APROBADA: Conserva el CSV original en input
+APROBADA: SHA-256 de entrada y salida coincide
+APROBADA: Registra copia con archivo y estado
+APROBADA: Excluye TXT y conserva el archivo de control
+APROBADA: No repite el evento en sondeos sucesivos
+APROBADA: Historial persiste tras reiniciar Camel
+APROBADA: CSV inválido genera ERROR_VALIDACION
+APROBADA: CSV inválido no se copia y conserva original
+APROBADA: Acepta CSV válido y extensión en mayúsculas
+APROBADA: Una versión corregida del archivo se procesa
+APROBADA: Copia corregida mantiene contenido idéntico

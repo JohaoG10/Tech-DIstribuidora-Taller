@@ -1,0 +1,2 @@
+fecha,archivo,estado,detalle
+"2026-10-02T21:14:47.206768-05:00","pedidos_invalidos.csv","ERROR_VALIDACION","Fila 1: cantidad entera y precio deben ser positivos"

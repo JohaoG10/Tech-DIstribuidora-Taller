@@ -1,0 +1,4 @@
+fecha,archivo,estado,detalle
+"2026-10-02T21:14:32.313003200-05:00","pedidos_001.csv","COPIADO","Archivo transferido sin transformar su contenido"
+"2026-10-02T21:14:50.277754700-05:00","pedidos_002.CSV","COPIADO","Archivo transferido sin transformar su contenido"
+"2026-10-02T21:14:53.309911900-05:00","pedidos_invalidos.csv","COPIADO","Archivo transferido sin transformar su contenido"
